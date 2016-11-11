@@ -1,0 +1,1 @@
+The project of the game made with lc-3 language. LC-3 simulator is needed to run the code.
